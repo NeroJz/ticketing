@@ -6,5 +6,6 @@ This project demos simple microservice using nodejs and React.js
 
 This project requires the following software to run.
 
-'''npm install npm@latest -g
-'''
+```npm install npm@latest -g
+
+```
